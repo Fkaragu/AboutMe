@@ -1,11 +1,26 @@
+.x{
+  border: 8px solid orange;
+  border-right: 100%;
+  margin-top: 16px;
+}
+.y{
+  border: 2px solid grey;
+  border-width: 50%;
+  border-radius: 50%;
+}
 
+h3{
+  color: black;
+  font-size: 24px;
+}
 .imgspace{
   float: left;
-  margin: 50px;
+  margin: 30px;
 }
 .info{
   color: white;
-  margin-top: 50px;
+  margin-top: 70px;
+  margin-left: 3px;
   float: right;
   padding-left: 20px;
   padding-right: : 20px;
@@ -15,7 +30,7 @@
 }
 .abtme{
   float: right;
-  color: blue;
+  color: orange;
   margin: 90px;
   margin-top: auto;
 }
@@ -28,4 +43,16 @@
 #move{
   color: red;
   font-family: serif;
+  font-style: oblique;
+}
+#proj{
+  float: left;
+  margin: 50px;
+  margin-bottom: 40px
+  margin-left: 3px;
+  color: white;
+  padding-left: 30px;
+  padding-right: : 20px;
+  border: 2px solid red;
+  background-color: grey;
 }
