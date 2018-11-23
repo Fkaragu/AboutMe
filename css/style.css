@@ -1,10 +1,20 @@
+
 .imgspace{
   float: left;
-  margin: 30px;
+  margin: 50px;
 }
-.Abtme{
+.info{
+  float: right;
+  padding-left: 20px;
+  border: 2px solid grey;
+  margin-top: 50px;
+}
+.abtme{
   float: right;
   color: blue;
-  margin: 40px;
+  margin: 90px;
   margin-top: auto;
+}
+.myname{
+  align-content: center;
 }
