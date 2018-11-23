@@ -4,10 +4,14 @@
   margin: 50px;
 }
 .info{
+  color: white;
+  margin-top: 50px;
   float: right;
   padding-left: 20px;
-  border: 2px solid grey;
-  margin-top: 50px;
+  padding-right: : 20px;
+  border: 2px solid red;
+  background-color: grey;
+
 }
 .abtme{
   float: right;
@@ -17,4 +21,11 @@
 }
 .myname{
   align-content: center;
+}
+.love{
+  color: orange;
+}
+#move{
+  color: red;
+  font-family: serif;
 }
