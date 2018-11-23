@@ -1,3 +1,11 @@
+.Prjcts{
+  color: black;
+  float: left;
+  margin-top: 25px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-family: sans-serif;
+}
 h1{
   color: blue;
   font-size: 30px;
@@ -44,12 +52,15 @@ h3{
 .imgspace{
   float: left;
   margin: 30px;
+  border-left: 2px solid grey;
+  border-right: 2px solid grey;
+  border-top: 2px solid grey;
 }
 .info{
+  vertical-align: middle;
   color: white;
-  margin-top: 70px;
-  margin-left: 3px;
-  float: right;
+  margin-top: 8px;
+  margin-left: 30px;
   padding-left: 20px;
   padding-right: : 20px;
   border: 2px solid red;
